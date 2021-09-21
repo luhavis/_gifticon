@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-108 -208) translate(108 208)">
+                <path d="M0 0H160V160H0z"/>
+                <rect width="108" height="142" x="31" y="11" fill="#F5F1EA" rx="11"/>
+                <path fill="#052285" d="M145 60.5c0-2.485 2.015-4.5 4.5-4.5s4.5 2.015 4.5 4.5V146l-4.5 7-4.5-7V60.5z"/>
+                <path fill="#FFF" fill-rule="nonzero" d="M154 62L154 64 145 64 145 62z"/>
+                <g fill="#705751">
+                    <g transform="translate(47 7)">
+                        <path fill-rule="nonzero" d="M3 12H2V.5c0-.276.224-.5.5-.5s.5.224.5.5V12z" transform="matrix(-1 0 0 1 5 0)"/>
+                        <circle cx="2.5" cy="14.5" r="2.5"/>
+                    </g>
+                    <g transform="translate(47 7) translate(18)">
+                        <path fill-rule="nonzero" d="M3 12H2V.5c0-.276.224-.5.5-.5s.5.224.5.5V12z" transform="matrix(-1 0 0 1 5 0)"/>
+                        <circle cx="2.5" cy="14.5" r="2.5"/>
+                    </g>
+                    <g transform="translate(47 7) translate(36)">
+                        <path fill-rule="nonzero" d="M3 12H2V.5c0-.276.224-.5.5-.5s.5.224.5.5V12z" transform="matrix(-1 0 0 1 5 0)"/>
+                        <circle cx="2.5" cy="14.5" r="2.5"/>
+                    </g>
+                    <g transform="translate(47 7) translate(54)">
+                        <path fill-rule="nonzero" d="M3 12H2V.5c0-.276.224-.5.5-.5s.5.224.5.5V12z" transform="matrix(-1 0 0 1 5 0)"/>
+                        <circle cx="2.5" cy="14.5" r="2.5"/>
+                    </g>
+                    <g transform="translate(47 7) translate(72)">
+                        <path fill-rule="nonzero" d="M3 12H2V.5c0-.276.224-.5.5-.5s.5.224.5.5V12z" transform="matrix(-1 0 0 1 5 0)"/>
+                        <circle cx="2.5" cy="14.5" r="2.5"/>
+                    </g>
+                </g>
+                <path fill="#F88C68" fill-rule="nonzero" d="M59 42v12H47V42h12zm-1 1H48v10h10V43z"/>
+                <path fill="#F88C68" d="M65 47H125V48H65zM65 68H125V69H65z"/>
+                <path fill="#F88C68" fill-rule="nonzero" d="M59 84v12H47V84h12zm-1 1H48v10h10V85z"/>
+                <path fill="#F88C68" d="M65 89H125V90H65z"/>
+                <path fill="#F88C68" fill-rule="nonzero" d="M59 105v12H47v-12h12zm-1 1H48v10h10v-10z"/>
+                <path fill="#F88C68" d="M65 110H125V111H65z"/>
+                <path fill="#D8D8D8" fill-rule="nonzero" d="M59 126v12H47v-12h12zm-1 1H48v10h10v-10z"/>
+                <path fill="#F88C68" d="M65 131H125V132H65z"/>
+                <g>
+                    <path fill="#419A93" d="M34.017 1.932l16.452 12.97c3.486 2.747 5.522 6.94 5.525 11.378L56 33.267v11.045c0 4.97-4.03 9-9 9H28V.011c2.111-.104 4.256.533 6.017 1.921zM27.667.001L28 .01v53.301H9c-4.97 0-9-4.03-9-9V33.267l.006-6.987c.003-4.438 2.04-8.63 5.525-11.379L21.983 1.932C23.744.544 25.889-.093 28 .011z" transform="translate(6 99.688)"/>
+                    <path fill="#FFF" d="M13 30.312H20V41.312H13z" transform="translate(6 99.688)"/>
+                </g>
+                <path fill="#F88C68" fill-rule="nonzero" d="M59.029 63.22c.177-.241.514-.292.753-.113.213.16.276.447.163.68l-.05.083-7.984 10.91c-.194.264-.565.29-.794.079l-.071-.08-4.94-6.75c-.177-.242-.127-.584.112-.763.212-.16.502-.137.688.04l.065.073 4.507 6.16 7.55-10.318z"/>
+            </g>
+        </g>
+    </g>
+</svg>
