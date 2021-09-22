@@ -2,13 +2,14 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View, Image } from 'react-native';
 import Card from './components/Card';
+import Header from './components/Header';
 
 import Title from './components/Title';
 
 export default function App() {
   return (
     <View style={styles.container}>
-
+      <Header/>
       <Title title="내 쿠폰" />
 
       <View style={styles.cardList}>        
