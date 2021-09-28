@@ -1,7 +1,6 @@
 import React from 'react'
 import {View, StyleSheet, Text, Image } from 'react-native'
 
-
 import group10 from '../assets/images/group10_3x.jpg'
 import iconIcCalendarBlack from '../assets/images/iconIcCalendarBlack.svg'
 
