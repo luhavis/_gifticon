@@ -2,7 +2,7 @@ import React from 'react'
 import {View, StyleSheet, Text, Image } from 'react-native'
 
 
-import group10 from '../assets/images/group10@3x.jpg'
+import group10 from '../assets/images/group10_3x.jpg'
 import iconIcCalendarBlack from '../assets/images/iconIcCalendarBlack.svg'
 
 export default function Card(props) {
@@ -53,8 +53,8 @@ const styles = StyleSheet.create({
 
   calendar: {
     width: '16px',
-    heigth: '16px',
-    resizeMode: 'corver',
+    height: '16px',
+    resizeMode: 'cover',
   },
 
   gificonDate: {
@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
   productPrice: {
     fontWeight: '700',
     fontSize: 14,
-    lineHeight: '20px',
+    lineHeight: 20,
     color: '#28282d',
   },
 })

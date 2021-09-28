@@ -32,6 +32,6 @@ const styles = StyleSheet.create({
     height: '24px',
     position: 'absolute',
     right: '16px',    
-    transform: `transateY(-50%)`
+    transform: [{translateY: -5}]
   },
 })
